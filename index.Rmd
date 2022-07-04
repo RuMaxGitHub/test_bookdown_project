@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "A Minimal Book Example (with small corrections)"
+author: "John Doe (corrections by Max Schiphorst)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
